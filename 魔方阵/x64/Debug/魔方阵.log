@@ -1,0 +1,4 @@
+﻿  源.c
+E:\Ccode\魔方阵\魔方阵\源.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\Ccode\魔方阵\魔方阵\源.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  魔方阵.vcxproj -> E:\Ccode\魔方阵\x64\Debug\魔方阵.exe
